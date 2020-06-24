@@ -1,0 +1,10 @@
+data/
+misc/
+model/
+src/
+.idea/
+predict/
+output/
+checkpoint/
+best/
+results/
