@@ -1,5 +1,12 @@
 # RDANER
 Code of ICKG2020 paper: A Robust and Domain-Adaptive Approach for Low-Resource Named Entity Recognition
-## TODO
-- Sorry for we can't upload the latest codes immediately, all latest codes are stored in the computer in my school (Beijing).
-- Maybe after 2020.9.15
+## How do I cite RDANER?
+```
+@inproceedings{houjin2020rdaner,
+  title={A Robust and Domain-Adaptive Approach for Low-Resource Named Entity Recognition},
+  author={Houjin Yu, Xian-Ling Mao, Zewen Chi, Wei Wei and Heyan Huang},
+  journal={2020 IEEE International Conference on Knowledge Graph (ICKG)},
+  pages = {297--304}
+  year={2020}
+}
+```
