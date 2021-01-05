@@ -1,6 +1,6 @@
 # RDANER
 Code of ICKG2020 paper: A Robust and Domain-Adaptive Approach for Low-Resource Named Entity Recognition
-## How do I cite RDANER?
+## How do I cite [RDANER](https://arxiv.org/abs/2101.00388)?
 ```
 @inproceedings{houjin2020rdaner,
   title={A Robust and Domain-Adaptive Approach for Low-Resource Named Entity Recognition},
